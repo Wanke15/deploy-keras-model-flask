@@ -1,0 +1,7 @@
+Flask
+pandas
+scikit-learn == 0.20.0
+keras
+numpy
+h5py
+tensorflow
